@@ -1,0 +1,22 @@
+body {
+    background-color: #f9f5f9;
+}
+
+.bg-image {
+    height: 80vh;
+    background-size: cover;
+    background-position: center center;
+}
+
+.btn-purple {
+    color: #fff;
+    background-color: red;
+    border-color: red;
+}
+
+div.main {
+    margin-top: 80px;
+    width: 80vw;
+    margin-left: auto;
+    margin-right: auto;
+}
